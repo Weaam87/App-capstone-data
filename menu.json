@@ -1,0 +1,124 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Greek Salad",
+      "description": "The famous Greek salad of crispy lettuce, peppers, olives, our Chicago.",
+      "price": "10",
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/greekSalad.jpg?raw=true",
+      "category": "starters"
+    },
+    {
+      "id": 2,
+      "title": "Lemon Dessert",
+      "description": "Traditional homemade Italian Lemon Ricotta Cake.",
+      "price": "10",
+      "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/lemon_desserts.jpg",
+      "category": "desserts"
+    },
+    {
+      "id": 3,
+      "title": "Grilled Fish",
+      "description": "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.",
+      "price": "10",
+      "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/grilled_fish.jpg",
+      "category": "mains"
+    },
+    {
+      "id": 4,
+      "title": "Pasta",
+      "description": "Penne with fried aubergines, cherry tomatoes, tomato sauce, fresh chilli, garlic, basil & salted ricotta cheese.",
+      "price": "10",
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/pasta.jpg?raw=true",
+      "category": "mains"
+    },
+    {
+      "id": 5,
+      "title": "Bruschetta",
+      "description": "Oven-baked bruschetta stuffed with tomatoes and herbs.",
+      "price": "10",
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/bruschetta.jpg?raw=true",
+      "category": "starters"
+    },
+    {
+      "id": 6,
+      "title": "Miso Soup",
+      "description": "Traditional Japanese soup made from fermented soybean paste.",
+      "price": "8",
+      "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/miso_soup_shutterstock.jpg",
+      "category": "starters"
+    },
+    {
+      "id": 7,
+      "title": "Tiramisu",
+      "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cream.",
+      "price": "12",
+      "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/tiramisu.jpg",
+      "category": "desserts"
+    },
+    {
+      "id": 8,
+      "title": "Grilled Steak",
+      "description": "Juicy and tender grilled steak seasoned with a special blend of herbs and spices.",
+      "price": "18",
+      "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/steak_meat.jpg",
+      "category": "mains"
+    },
+    {
+      "id": 9,
+      "title": "Margherita Pizza",
+      "description": "Classic pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves.",
+      "price": "14",
+      "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/margherita.jpg",
+      "category": "mains"
+    },
+    {
+      "id": 10,
+      "title": "Garlic Bread",
+      "description": "Oven-baked bread topped with garlic butter and herbs.",
+      "price": "6",
+      "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/garlic_bread.jpg",
+      "category": "starters"
+    },
+    {
+      "id": 11,
+      "title": "Chocolate Lava Cake",
+      "description": "Decadent chocolate cake with a gooey molten center.",
+      "price": "10",
+      "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/chocolate_lava_cake.jpg",
+      "category": "desserts"
+    },
+    {
+      "id": 12,
+      "title": "Chicken Parmesan",
+      "description": "Breaded and fried chicken cutlet topped with tomato sauce and melted cheese.",
+      "price": "16",
+      "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/chicken_parmesan.jpg",
+      "category": "mains"
+    },
+    {
+      "id": 13,
+      "title": "Caprese Salad",
+      "description": "Refreshing salad with fresh mozzarella, tomatoes, and basil leaves drizzled with balsamic glaze.",
+      "price": "9",
+      "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/caprese.jpg",
+      "category": "starters"
+    },
+    {
+      "id": 14,
+      "title": "Cheesecake",
+      "description": "Creamy and indulgent New York-style cheesecake with a graham cracker crust.",
+      "price": "12",
+      "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/cheesecake.jpg",
+      "category": "desserts"
+    },
+    {
+      "id": 15,
+      "title": "Spaghetti Carbonara",
+      "description": "Classic Italian pasta dish made with eggs, pancetta, and grated cheese.",
+      "price": "14",
+      "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/spaghetti%20_carbonara.jpg",
+      "category": "mains"
+    }
+  ]
+}
