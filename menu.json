@@ -2,8 +2,8 @@
   "menu": [
     {
       "id": 1,
-      "title": "Greek",
-      "description": "The famous Greek salad of crispy lettuce, peppers, olives, our Chicago.",
+      "title": "Greek Salad",
+      "description": "Indulge in the famous Greek salad featuring crispy lettuce, vibrant peppers, briny olives, and our signature Chicago dressing. A refreshing starter that tantalizes your taste buds.",
       "price": "12",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/greek_salad.jpg",
       "category": "starters"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "Lemon Dessert",
-      "description": "Traditional homemade Italian Lemon Ricotta Cake.",
+      "description": "Savor the exquisite flavors of our traditional homemade Italian Lemon Ricotta Cake. A delightful dessert that combines the zesty essence of lemons with the richness of creamy ricotta.",
       "price": "9.99",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/lemon_desserts.jpg",
       "category": "desserts"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title": "Grilled Fish",
-      "description": "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.",
+      "description": "Experience culinary bliss with our Grilled Fish Bruschetta. Delight in grilled bread adorned with garlic, seasoned with salt, and drizzled with olive oil, creating a Mediterranean masterpiece.",
       "price": "11.5",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/grilled_fish.jpg",
       "category": "mains"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "title": "Pasta",
-      "description": "Penne with fried aubergines, cherry tomatoes, tomato sauce, fresh chilli, garlic, basil & salted ricotta cheese.",
+      "description": "Treat yourself to the irresistible Penne with fried aubergines, cherry tomatoes, tomato sauce, fresh chilli, garlic, basil, and salted ricotta cheese. A symphony of flavors in every bite.",
       "price": "10.99",
       "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/pasta.jpg?raw=true",
       "category": "mains"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "title": "Bruschetta",
-      "description": "Oven-baked bruschetta stuffed with tomatoes and herbs.",
+      "description": "Elevate your senses with our oven-baked bruschetta stuffed with succulent tomatoes and aromatic herbs. A perfect starter to ignite your appetite and set the tone for a delightful meal.",
       "price": "8.99",
       "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/bruschetta.jpg?raw=true",
       "category": "starters"
@@ -43,7 +43,7 @@
     {
       "id": 6,
       "title": "Miso Soup",
-      "description": "Traditional Japanese soup made from fermented soybean paste.",
+      "description": "Immerse yourself in the traditions of Japan with our Miso Soup. Crafted from fermented soybean paste, this soup delivers a harmonious blend of flavors, bringing warmth to your palate.",
       "price": "8",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/miso_soup_shutterstock.jpg",
       "category": "starters"
@@ -51,7 +51,7 @@
     {
       "id": 7,
       "title": "Tiramisu",
-      "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cream.",
+      "description": "Experience the timeless allure of our Tiramisu. Layers of coffee-soaked ladyfingers and velvety mascarpone cream create a symphony of textures and tastes in this classic Italian dessert.",
       "price": "12",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/tiramisu.jpg",
       "category": "desserts"
@@ -59,7 +59,7 @@
     {
       "id": 8,
       "title": "Grilled Steak",
-      "description": "Juicy and tender grilled steak seasoned with a special blend of herbs and spices.",
+      "description": "Savor the succulence of our Grilled Steak, expertly seasoned with a special blend of herbs and spices. Each juicy bite is a testament to the craftsmanship that goes into every dish.",
       "price": "18",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/steak_meat.jpg",
       "category": "mains"
@@ -67,7 +67,7 @@
     {
       "id": 9,
       "title": "Margherita Pizza",
-      "description": "Classic pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves.",
+      "description": "Delight in the simplicity of our Margherita Pizza, topped with fresh tomatoes, gooey mozzarella cheese, and fragrant basil leaves. A classic that captures the essence of Italian culinary artistry.",
       "price": "14",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/margherita.jpg",
       "category": "mains"
@@ -75,7 +75,7 @@
     {
       "id": 10,
       "title": "Garlic Bread",
-      "description": "Oven-baked bread topped with garlic butter and herbs.",
+      "description": "Satisfy your cravings with our oven-baked Garlic Bread, generously topped with garlic butter and aromatic herbs. A perfect accompaniment to start your culinary journey.",
       "price": "6",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/garlic_bread.jpg",
       "category": "starters"
@@ -83,7 +83,7 @@
     {
       "id": 11,
       "title": "Chocolate Lava Cake",
-      "description": "Decadent chocolate cake with a gooey molten center.",
+      "description": "Indulge in decadence with our Chocolate Lava Cake, a heavenly creation with a gooey molten center. Each spoonful is a journey into the rich and velvety world of chocolate delights.",
       "price": "10",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/chocolate_lava_cake.jpg",
       "category": "desserts"
@@ -91,7 +91,7 @@
     {
       "id": 12,
       "title": "Chicken Parmesan",
-      "description": "Breaded and fried chicken cutlet topped with tomato sauce and melted cheese.",
+      "description": "Experience the perfection of our Chicken Parmesan, featuring a breaded and fried chicken cutlet topped with flavorful tomato sauce and melted cheese. A comforting main course that satisfies every palate.",
       "price": "16",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/chicken_parmesan.jpg",
       "category": "mains"
@@ -99,7 +99,7 @@
     {
       "id": 13,
       "title": "Caprese Salad",
-      "description": "Refreshing salad with fresh mozzarella, tomatoes, and basil leaves drizzled with balsamic glaze.",
+      "description": "Refresh your senses with our Caprese Salad, a vibrant medley of fresh mozzarella, juicy tomatoes, and aromatic basil leaves drizzled with balsamic glaze. An exquisite starter that celebrates simplicity.",
       "price": "9",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/caprese.jpg",
       "category": "starters"
@@ -107,7 +107,7 @@
     {
       "id": 14,
       "title": "Cheesecake",
-      "description": "Creamy and indulgent New York-style cheesecake with a graham cracker crust.",
+      "description": "Delight in the creamy indulgence of our New York-style Cheesecake. With a luscious texture and a graham cracker crust, each bite is a journey into the world of irresistible sweetness.",
       "price": "12",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/cheesecake.jpg",
       "category": "desserts"
@@ -115,7 +115,7 @@
     {
       "id": 15,
       "title": "Spaghetti Carbonara",
-      "description": "Classic Italian pasta dish made with eggs, pancetta, and grated cheese.",
+      "description": "Experience the classic flavors of Italy with our Spaghetti Carbonara. This pasta dish, featuring eggs, pancetta, and grated cheese, is a culinary masterpiece that transports you to the heart of Italian cuisine.",
       "price": "14",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/spaghetti%20_carbonara.jpg",
       "category": "mains"
