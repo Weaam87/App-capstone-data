@@ -2,7 +2,7 @@
   "menu": [
     {
       "id": 1,
-      "title": "Greek Salad",
+      "title": "Greek",
       "description": "The famous Greek salad of crispy lettuce, peppers, olives, our Chicago.",
       "price": "12",
       "image": "https://raw.githubusercontent.com/Weaam87/App-capstone-data/main/greek_salad.jpg",
